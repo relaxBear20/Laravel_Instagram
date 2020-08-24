@@ -10,7 +10,7 @@
             <div ><h1> {{  $user->username}} </h1></div>
             <div class="d-flex">
                 <div class=""><strong>117</strong>Posts</div>
-                <div class="pl-5"><strong>583</strong>followers</div>  
+                <div class="pl-5"><strong>5823</strong>followers</div>  
                 <div  class="pl-5"><strong>921</strong>following</div>      
             </div>    
             <div>
